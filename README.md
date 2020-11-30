@@ -7,8 +7,8 @@ Celestial Call combines the [Cosmic Call](https://en.wikipedia.org/wiki/Cosmic_C
 Please enjoy alternating views of our scientific attempts to contact extraterrestrial beings with our spiritual ones.  Each image presents an archetype, whether it be that of the magician, the Pythagorean theorem, or of man and woman.
 
 <p>
-<img alt="Tarot Card, the Magician" title="Tarot Card, the Magician" src="tarot/RWS_Tarot_01_Magician.jpg" width="127px" />
-<img alt="Cosmic Call Image, Pythagorean Theorem" title="Cosmic Call Image, Pythagorean Theorem" src="cosmic_call/p05.bmp" />
+<img alt="Tarot Card, the Magician" title="Tarot Card, the Magician" src="tarot/RWS_Tarot_01_Magician.jpg" width="127px" valign="middle" />
+<img alt="Cosmic Call Image, Pythagorean Theorem" title="Cosmic Call Image, Pythagorean Theorem" src="cosmic_call/p05.bmp" valign="middle" />
 </p>
 
 <p>
