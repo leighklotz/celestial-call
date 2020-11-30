@@ -1,13 +1,20 @@
 # Celestial Call
 
+![Cosmic Call, Pythagorean Theorem](doc/pythagoras.jpg)
+
 Celestial Call combines the [Cosmic Call](https://en.wikipedia.org/wiki/Cosmic_Call) "interstellar radio message" images, 127x127 pixels with the [Rider-Waite Tarot Deck](https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck) images, scanned by Wikipedia volunteers (see their [copyright](tarot/COPYRIGHT.txt), interspersed with one image from each set.  There are 23 images in each set, the Cosmic Call a complete set from the [Dumas-Dutil Message](http://www.plover.com/misc/Dumas-Dutil/messages.pdf) by way of Wikipedia.  The Tarot deck consists of the 22 "Major Arcana," each individual, plus a single card from the 52-card, four-suited deck that form the "Minor Arcana," the Ace of Wands.
 
 Please enjoy alternating views of our scientific attempts to contact extraterrestrial beings with our spiritual ones.  Each image presents an archetype, whether it be that of the magician, the Pythagorean theorem, or of man and woman.
 
-![Tarot Card, the Magician](tarot/RWS_Tarot_01_Magician.jpg)
-![Cosmic Call Image, Pythagorean Theorem](cosmic_call/p05.bmp)
-![Cosmic Call Image, Man and Woman](cosmic_call/p15.bmp)
-![Tarot Card, the Devil, with Man and Woman enslaved](tarot/RWS_Tarot_15_Devil.jpg)
+<p>
+<img alt="Tarot Card, the Magician" title="Tarot Card, the Magician" src="tarot/RWS_Tarot_01_Magician.jpg" width="127px" />
+<img alt="Cosmic Call Image, Pythagorean Theorem" title="Cosmic Call Image, Pythagorean Theorem" src="cosmic_call/p05.bmp" />
+</p>
+
+<p>
+<img alt="Cosmic Call Image, Man and Woman" title="Cosmic Call Image, Man and Woman" src="cosmic_call/p15.bmp" width="127px" />
+<img alt="Tarot Card, the Devil, with man and Woman enslaved" title="Tarot Card, the Devil, with man and Woman enslaved" src="tarot/RWS_Tarot_15_Devil.jpg" width="127px" />
+</p>
 
 # Parts
 ## Waveshare e-Paper Module
