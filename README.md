@@ -6,10 +6,10 @@ Celestial Call combines the [Cosmic Call](https://en.wikipedia.org/wiki/Cosmic_C
 
 Please enjoy alternating views of our scientific attempts to contact extraterrestrial beings with our spiritual ones.  Each image presents an archetype, whether it be that of the magician, the Pythagorean theorem, or of man and woman.
 
-![Tarot Card, the Magician](tarot/RWS_Tarot_01_Magician.jpg)
-![Cosmic Call Image, Pythagorean Theorem](cosmic_call/p05.bmp)
-![Cosmic Call Image, Man and Woman](cosmic_call/p15.bmp)
-![Tarot Card, the Devil, with Man and Woman enslaved](tarot/RWS_Tarot_15_Devil.jpg)
+![Tarot Card, the Magician](tarot/RWS_Tarot_01_Magician.jpg | width=127)
+![Cosmic Call Image, Pythagorean Theorem](cosmic_call/p05.bmp | width=127)
+![Cosmic Call Image, Man and Woman](cosmic_call/p15.bmp | width=127)
+![Tarot Card, the Devil, with Man and Woman enslaved](tarot/RWS_Tarot_15_Devil.jpg | width=127)
 
 # Parts
 ## Waveshare e-Paper Module
