@@ -2,9 +2,9 @@
 
 ![Cosmic Call, Pythagorean Theorem](doc/pythagoras-256.jpg) ![Rider-Waite Tarot Deck, The Hermit](doc/the-hermit-256.jpg)
 
-Celestial Call combines the [Cosmic Call](https://en.wikipedia.org/wiki/Cosmic_Call) "interstellar radio message" images, 127x127 pixels with the [Rider-Waite Tarot Deck](https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck) images, scanned by Wikipedia volunteers (see their [copyright](tarot/COPYRIGHT.txt), interspersed with one image from each set.  There are 23 images in each set, the Cosmic Call a complete set from the [Dumas-Dutil Message](http://www.plover.com/misc/Dumas-Dutil/messages.pdf) by way of Wikipedia.  The Tarot deck consists of the 22 "Major Arcana," each individual, plus a single card from the 52-card, four-suited deck that form the "Minor Arcana," the Ace of Wands.
+Celestial Call combines the [Cosmic Call](https://en.wikipedia.org/wiki/Cosmic_Call) "interstellar radio message" images with the [Rider-Waite Tarot Deck](https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck) images, interspersed with one image from each set.  There are 23 images in each set, the Cosmic Call a complete set from the [Dumas-Dutil Message](http://www.plover.com/misc/Dumas-Dutil/messages.pdf) by way of Wikipedia.  The Tarot deck consists of the 22 "Major Arcana," each individual, plus a single card from the 52-card, four-suited deck that form the "Minor Arcana," the Ace of Wands.
 
-Please enjoy alternating views of our scientific attempts to contact extraterrestrial beings with our spiritual ones.  Each image presents an archetype, whether it be that of the magician, the Pythagorean theorem, or of man and woman.
+Please enjoy views of our scientific attempts to contact extraterrestrial beings alternating with our spiritual ones.  Each of these 46 images presents an archetype: the magician, the Pythagorean theorem, or different views of the human body.
 
 <p>
 <img alt="Tarot Card, the Magician" title="Tarot Card, the Magician" src="images/tarot/RWS_Tarot_01_Magician.jpg" width="127px" valign="middle" />
@@ -28,10 +28,13 @@ Please enjoy alternating views of our scientific attempts to contact extraterres
 - Images served externally
 - Display is only It's only 104x212 so can't display 127x127 well
 - Tarot images resized to x204
+- Scanned by Wikipedia volunteers (see their [copyright](tarot/COPYRIGHT.txt),
 
 ## Cosmic Call Images
 - Cosmic Call Images from https://pic.blog.plover.com/aliens/dd/dd.zip
-- convert ${file}.pbm -monochrome -colors 2 ${file}.bmp
+- convert ${file}.pbm -monochrome -colors 2 ${file}.bm
+- 127x127 pixels native size
+
 
 ## Tarot mages
 - Tarot images from Wikipedia https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck
