@@ -1,8 +1,8 @@
 # Celestial Call
 
-![Cosmic Call, Pythagorean Theorem](doc/pythagoras-256.jpg) ![Rider-Waite Tarot Deck, The Hermit](doc/the-hermit-256.jpg)
+Celestial Call intersperses the 23 [Cosmic Call](https://en.wikipedia.org/wiki/Cosmic_Call) "interstellar radio message" images with 23 images of the [Rider-Waite Tarot Deck](https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck) images. The Cosmic Call is a complete set from the [Dumas-Dutil Message](http://www.plover.com/misc/Dumas-Dutil/messages.pdf) by way of Wikipedia, and the Tarot images comprise the 22 "Major Arcana" plus Ace of Wands, a single representative card from the 52-card, four-suited deck that form the "Minor Arcana."
 
-Celestial Call combines the [Cosmic Call](https://en.wikipedia.org/wiki/Cosmic_Call) "interstellar radio message" images with the [Rider-Waite Tarot Deck](https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck) images, interspersed with one image from each set.  There are 23 images in each set, the Cosmic Call a complete set from the [Dumas-Dutil Message](http://www.plover.com/misc/Dumas-Dutil/messages.pdf) by way of Wikipedia.  The Tarot deck consists of the 22 "Major Arcana," each individual, plus a single card from the 52-card, four-suited deck that form the "Minor Arcana," the Ace of Wands.
+![Cosmic Call, Pythagorean Theorem](doc/pythagoras-256.jpg) ![Rider-Waite Tarot Deck, The Hermit](doc/the-hermit-256.jpg)
 
 Please enjoy views of our scientific attempts to contact extraterrestrial beings alternating with our spiritual ones.  Each of these 46 images presents an archetype: the magician, the Pythagorean theorem, or different views of the human body.
 
