@@ -12,8 +12,8 @@ Please enjoy alternating views of our scientific attempts to contact extraterres
 </p>
 
 <p>
-<img alt="Cosmic Call Image, Man and Woman" title="Cosmic Call Image, Man and Woman" src="cosmic_call/p15.bmp" width="127px" />
-<img alt="Tarot Card, the Devil, with man and Woman enslaved" title="Tarot Card, the Devil, with man and Woman enslaved" src="tarot/RWS_Tarot_15_Devil.jpg" width="127px" />
+<img alt="Cosmic Call Image, Man and Woman" title="Cosmic Call Image, Man and Woman" src="cosmic_call/p15.bmp" width="127px" valign="middle"/>
+<img alt="Tarot Card, the Devil, with man and Woman enslaved" title="Tarot Card, the Devil, with man and Woman enslaved" src="tarot/RWS_Tarot_15_Devil.jpg" width="127px" valign="middle"/>
 </p>
 
 # Parts
