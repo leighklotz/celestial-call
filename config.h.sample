@@ -1,0 +1,17 @@
+// Template file - copy to config.h and edit.
+const char* ssid     = "......";
+const char* password = "......";
+const int httpPort  = 80;
+const int httpsPort = 443;
+// Use browser to obtain TLS SHA1 checksum and paste here;  It changes from time to time.
+#if USE_BearSSL
+const char fp_host[20]  = {0xED, 0x3D, 0xF6, 0x92, 0xE7, 0x75, 0x98, 0x36, 0x62, 0xF1, 0x14, 0x12, 0xA8, 0xCB, 0x2F, 0x6C, 0x4B, 0xEE, 0x2E, 0xEC };
+#else
+const char* fp_host     = "ED 3D F6 92 E7 75 98 36 62 F1 14 12 A8 CB 2F 6C 4B EE 2E EC";
+#endif
+
+// Host for your images
+const char* host_cosmic   = "example.com";
+const char* path_cosmic   = "/path/to/cosmic-call/bmp/";
+const char* path_tarot   = "/path/to/tarot/bmp/";
+const int carousel_n_images = 23;

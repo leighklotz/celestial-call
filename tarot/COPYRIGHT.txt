@@ -1,0 +1,12 @@
+For p##.bmp files in this directory, they are from 
+https://en.wikipedia.org/wiki/File:RWS_Tarot_##_World.jpg
+e.g. p21.bmp is from https://en.wikipedia.org/wiki/File:RWS_Tarot_21_World.jpg
+
+    By Authorship: Arthur Edward Waite,
+    Pamela Coleman Smith was the artist and worked as an artist "for hire."
+    aite was the copyright holder and he died in 1942.
+    This image scanned by Holly Voley, PD-US,
+    https://en.wikipedia.org/w/index.php?curid=6087426
+
+color2gray Copyright © Fred Weinhaus
+http://www.fmwconcepts.com/imagemagick/color2gray/index.php
