@@ -26,7 +26,7 @@ Please enjoy views of our scientific attempts to contact extraterrestrial beings
 
 # Images
 - Images served externally
-- Display is only It's only 104x212 so can't display 127x127 well
+- Display is only 104x212 so can't display 127x127 well
 - Tarot images resized to x204
 - Scanned by Wikipedia volunteers (see their [copyright](tarot/COPYRIGHT.txt),
 
