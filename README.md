@@ -13,7 +13,7 @@ Please enjoy alternating views of our scientific attempts to contact extraterres
 
 <p>
 <img alt="Cosmic Call Image, Man and Woman" src="cosmic_call/p15.bmp" width="127px" /><br />
-<img alt="Tarot Card, the Devil, with" src="an and Woman enslaved"  src="tarot/RWS_Tarot_15_Devil.jpg" width="127px" />
+<img alt="Tarot Card, the Devil, with man and Woman enslaved" src="tarot/RWS_Tarot_15_Devil.jpg" width="127px" />
 </p>
 
 # Parts
