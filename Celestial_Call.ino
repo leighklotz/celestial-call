@@ -11,6 +11,13 @@
 
 #include "config.h"
 
+#define USE_RANDOM (1)
+
+#ifdef USE_RANDOM
+#include <ESP8266TrueRandom.h>
+#endif
+
+
 // note that BMP bitmaps are drawn at physical position in physical orientation of the screen
 void showBitmapFrom_HTTP(const char* host, const char* path, const char* filename, int16_t x, int16_t y, bool with_color = true);
 void showBitmapFrom_HTTPS(const char* host, const char* path, const char* filename, const char* fingerprint, int16_t x, int16_t y, bool with_color = true);
